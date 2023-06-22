@@ -30,11 +30,6 @@ const HomePage = () => {
             class="d-block w-100"
             alt="..."
           />
-
-          <div class="carousel-caption d-none d-md-block mb-3">
-            <h5>First slide label</h5>
-            <p>Some representative placeholder content for the first slide.</p>
-          </div>
         </div>
         <div class="carousel-item " style={{ height: '720px' }}>
           <img
@@ -42,21 +37,13 @@ const HomePage = () => {
             class="d-block w-100"
             alt="..."
           />
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Second slide label</h5>
-            <p>Some representative placeholder content for the second slide.</p>
-          </div>
         </div>
         <div class="carousel-item" style={{ height: '720px' }}>
           <img
-            src="https://images.complex.com/complex/images/c_fill,dpr_auto,f_auto,q_90,w_1400/fl_lossy,pg_1/dxlb6to3y4awfcvwuqj0/movie-theater-crowd"
+            src="https://cdn.discordapp.com/attachments/1114869476316414014/1119646376398163989/composition-cinema-elements-red-background-with-copy-space.jpg"
             class="d-block w-100"
             alt="..."
           />
-          <div class="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
         </div>
       </div>
       <button

@@ -169,6 +169,13 @@ const PopulerMovies = () => {
                         Değerlendir
                       </button>
                     </div>
+                    <div
+                      className="badge bg-primary rounded-pill"
+                      style={{ padding: '10px 10px', marginTop: '10px' }}
+                    >
+                      Ortalama Oy: &nbsp;
+                      {parseFloat(item.vote_average.toFixed(1))} / 10
+                    </div>
                   </div>
                 </div>
               ))}
