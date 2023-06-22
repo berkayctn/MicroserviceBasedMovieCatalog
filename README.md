@@ -1,2 +1,2 @@
 # MicroserviceBasedMovieCatalog
-This project is a demo application that provides movie catalog functionality implemented as a microservice-based architecture. The application is developed using Spring Boot on the backend side and React.js on the frontend side.
+This is a demo application of a microservice-based movie catalog, where Spring Boot is used on the back-end and React.js is used on the front-end.
