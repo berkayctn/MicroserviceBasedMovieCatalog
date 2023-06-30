@@ -19,23 +19,23 @@ const Navbar = () => {
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="/homePage">
-                Ana Sayfa
+              <a class="nav-link" aria-current="page" href="/homePage">
+                Home
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/popularMovies">
-                Popüler Filmler
+                Popular Movies
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/topRatedMovies">
-                En Çok Oy Alanlar
+                Top Rated Movies
               </a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="/votedMovies">
-                Oylanan Filmler
+                Rated By You
               </a>
             </li>
           </ul>

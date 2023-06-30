@@ -78,7 +78,7 @@ const PopulerMovies = () => {
         >
           <span className="visually-hidden">Loading...</span>
         </div>
-        <span className="spinner-text">Yükleniyor...</span>
+        <span className="spinner-text">Loading...</span>
       </div>
     );
   };
@@ -90,7 +90,7 @@ const PopulerMovies = () => {
         style={{ width: '60%', margin: 'auto' }}
         role="alert"
       >
-        Bu bileşen yüklenirken bir hata oluştu. Lütfen tekrar deneyin.
+        An error occurred while loading this component. Please try again.
       </div>
     );
   };
@@ -147,7 +147,7 @@ const PopulerMovies = () => {
                         htmlFor={'customRange' + index}
                         className="form-label"
                       >
-                        Değerlendirmeniz:
+                        Rate now!
                       </label>
                       <input
                         type="range"
@@ -166,14 +166,14 @@ const PopulerMovies = () => {
                           resetRange(item.id);
                         }}
                       >
-                        Değerlendir
+                        Rate This Movie
                       </button>
                     </div>
                     <div
                       className="badge bg-primary rounded-pill"
                       style={{ padding: '10px 10px', marginTop: '10px' }}
                     >
-                      Ortalama Oy: &nbsp;
+                      Rating Average: &nbsp;
                       {parseFloat(item.vote_average.toFixed(1))} / 10
                     </div>
                   </div>

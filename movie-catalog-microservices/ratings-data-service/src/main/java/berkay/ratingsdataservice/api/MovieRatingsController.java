@@ -28,7 +28,7 @@ public class MovieRatingsController {
                 new Rating("603692", 8), //John Wick 4
                 new Rating("502356", 6), // Mario
                 new Rating("569094", 7), // Spider-Man: Across the Spider-Verse
-                new Rating("238", 10));      //The Godfather
+                new Rating("238", 10));  //The Godfather
 
         UserRating userRating = new UserRating(userId, ratings);
         return userRating;
