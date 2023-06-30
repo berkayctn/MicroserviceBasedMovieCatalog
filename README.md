@@ -31,7 +31,7 @@ On the Rated By You page, you can see movies that have been rated by users, and 
 
 Since this application is currently a demo application and does not have a dedicated database, the information regarding these movies has been hard-coded on the back-end side.
 
-![](images/Votes.PNG)
+![](images/Votes2.PNG)
 
 However, for future developments and convenience, during the voting process on the Popular Movies and Top Rated Movies pages, the ratings given to the movies bu user and their corresponding IDs are returned to be used in the TMDB API.
 
