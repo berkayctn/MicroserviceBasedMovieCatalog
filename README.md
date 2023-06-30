@@ -11,3 +11,8 @@ To run the project, follow these steps:
 5. Install the necessary dependencies for the frontend by running `npm install` command.
 6. Launch the frontend project by running the command `npm start`.
 7. After completing these steps, you can navigate through the application as desired.
+
+## Overview
+When the project is first initiated, you encounter the following screen:
+
+![](images/HomaPage.PNG)
