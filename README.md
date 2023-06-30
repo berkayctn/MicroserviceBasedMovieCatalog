@@ -15,4 +15,4 @@ To run the project, follow these steps:
 ## Overview
 When the project is first initiated, you encounter the following screen:
 
-![](images/HomaPage.PNG)
+![](images/HomePage.PNG)
