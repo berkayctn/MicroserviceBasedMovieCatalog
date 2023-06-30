@@ -37,6 +37,9 @@ However, for future developments and convenience, during the voting process on t
 
 ![](images/Ratings.PNG)
 
+## Project architecture
+
+![](images/ProjectArchitecture.PNG)
 
 
 
