@@ -17,7 +17,7 @@ When the project is first initiated, you encounter the following screen:
 
 ![](images/HomePage.PNG)
 
-When you navigate to the Popular Movies page, based on the data obtained from TMDB API, you can access movies in a paginated format along with brief information about them and sections for voting on the films.
+When you navigate to the Popular Movies page, based on the data obtained from TMDB API, you can access movies in a paginated format along with brief information about them and sections for voting on the films. (You will find similar elements on the Top Rated Movies page as well, allowing you to explore top-rated films instead.)
 
 ![](images/PopularMoviesPage.PNG)
 
@@ -25,9 +25,26 @@ If you desire to view different movies, you can change the pages from here when 
 
 ![](images/PopularMoviesPage3.PNG)
 
-When you navigate to the Top Rated Movies page, based on the data obtained from TMDB API, you can access movies in a paginated format along with brief information about them and sections for voting on the films.
+On the Rated By You page, you can see movies that have been rated by users, and the information about the movies is also obtained from the TMDB API in the same manner.
 
-![](images/TopRatedMovies.PNG)
+![](images/RatedByYou.PNG)
+
+Since this application is currently a demo application and does not have a dedicated database, the information regarding these movies has been hard-coded on the back-end side.
+
+![](images/Votes.PNG)
+
+However, for future developments and convenience, during the voting process on the Popular Movies and Top Rated Movies pages, the ratings given to the movies bu user and their corresponding IDs are returned to be used in the TMDB API.
+
+![](images/Ratings.PNG)
+
+
+
+
+
+
+
+
+
 
 
 
