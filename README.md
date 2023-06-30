@@ -20,3 +20,5 @@ When the project is first initiated, you encounter the following screen:
 When you navigate to the Popular Movies page, based on the data obtained from TMDB API, you can access movies in a paginated format along with brief information about them and sections for voting on the films.
 
 ![](images/PopularMoviesPage.PNG)
+![](images/PopularMoviesPage2.PNG)
+
